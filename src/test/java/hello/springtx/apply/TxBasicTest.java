@@ -14,7 +14,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 
 @Slf4j
 @SpringBootTest
-public class TxBasicTest {
+class TxBasicTest {
 
     @Autowired
     BasicService basicService;
